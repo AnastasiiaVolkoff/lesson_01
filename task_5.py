@@ -3,6 +3,7 @@ def print_num(num):
 
 
 print_num(8)
+print_num(8)
 print_num(0)
 print_num(0)
 print_num(5)
